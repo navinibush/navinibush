@@ -7,4 +7,4 @@ ___
 - ✉️  You can contact me at navinibush@gmail.com
 ___
 ## Skills:
-![ссылка](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
+![[ссылка](https://www.python.org/)](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
