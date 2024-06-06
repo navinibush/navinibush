@@ -1,4 +1,4 @@
-## Hi there, Ny name is Ivan 👋
+## Hi there, My name is Ivan 👋
 # Im a Data Analyst
 ___
 - 🌍  Moscow, Russia
