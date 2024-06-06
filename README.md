@@ -1,5 +1,5 @@
 ## Hi there, Ny name is Ivan 👋
-# Im a junior Data Analyst
+# Im a Data Analyst
 ___
 - 🌍  Moscow, Russia
 - 🧠  I'm learning Python, SQL, Tableau
